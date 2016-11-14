@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ForgotPasswordPage.qml</file>
+        <file>RegisterPage.qml</file>
+        <file>LoginPage.qml</file>
+        <file>DesignLogo.qml</file>
+        <file>DesignTextInput.qml</file>
+        <file>DesignButton.qml</file>
+        <file>ResetPasswordPage.qml</file>
+        <file>DesignInformationBar.qml</file>
+        <file>RegisterPage2.qml</file>
+        <file>DashboardPage.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>background.jpg</file>
+        <file>icon.svg</file>
+        <file>error.svg</file>
+        <file>info.svg</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>OpenSans-Regular.ttf</file>
+        <file>Gotham-Bold.ttf</file>
+    </qresource>
+</RCC>
